@@ -1,0 +1,22 @@
+{
+  "name": "bobby",
+  "version": "1.0.0",
+  "description": "jslibrary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyhabtamu/myfirstpackage.git"
+  },
+  "keywords": [
+    "firstproject"
+  ],
+  "author": "bobby habtamu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobbyhabtamu/myfirstpackage/issues"
+  },
+  "homepage": "https://github.com/bobbyhabtamu/myfirstpackage#readme"
+}
